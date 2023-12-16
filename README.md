@@ -11,3 +11,4 @@ Must have the following installed in your environment:
 - PyTorch
 - OpenAI's Whisper text to speech neural network model
 - Libraries listed in `requirements.txt`
+- An mp4 file in resources which is used for the background video.
